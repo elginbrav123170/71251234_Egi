@@ -1,0 +1,4 @@
+Python adalah Bahasa pemrograman yang sangat menyenangkan
+dan mudah dipelajari.
+Namun belum tentu semua orang bisa
+menguasai Python
